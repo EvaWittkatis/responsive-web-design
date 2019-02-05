@@ -44,7 +44,6 @@ h2 {
     font-size: 15px;
     display: flex;
     flex-direction: row;
-    align-content: space-between;
     }
     #small, #medium, #large {
       margin: 10px;
